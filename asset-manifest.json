@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mazenLavey/daboor-meter/static/css/main.e71f5d8d.css",
-    "main.js": "/mazenLavey/daboor-meter/static/js/main.a9c31feb.js",
-    "static/media/icon-meter.png": "/mazenLavey/daboor-meter/static/media/icon-meter.f7a79db0440be4424ffb.png",
-    "index.html": "/mazenLavey/daboor-meter/index.html",
-    "main.e71f5d8d.css.map": "/mazenLavey/daboor-meter/static/css/main.e71f5d8d.css.map",
-    "main.a9c31feb.js.map": "/mazenLavey/daboor-meter/static/js/main.a9c31feb.js.map"
+    "main.css": "/daboor-meter/static/css/main.e71f5d8d.css",
+    "main.js": "/daboor-meter/static/js/main.c405bac2.js",
+    "static/media/icon-meter.png": "/daboor-meter/static/media/icon-meter.f7a79db0440be4424ffb.png",
+    "index.html": "/daboor-meter/index.html",
+    "main.e71f5d8d.css.map": "/daboor-meter/static/css/main.e71f5d8d.css.map",
+    "main.c405bac2.js.map": "/daboor-meter/static/js/main.c405bac2.js.map"
   },
   "entrypoints": [
     "static/css/main.e71f5d8d.css",
-    "static/js/main.a9c31feb.js"
+    "static/js/main.c405bac2.js"
   ]
 }
