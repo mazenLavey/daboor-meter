@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/daboor-meter/static/css/main.e71f5d8d.css",
+    "main.css": "/daboor-meter/static/css/main.446c5c58.css",
     "main.js": "/daboor-meter/static/js/main.c405bac2.js",
     "static/media/icon-meter.png": "/daboor-meter/static/media/icon-meter.f7a79db0440be4424ffb.png",
     "index.html": "/daboor-meter/index.html",
-    "main.e71f5d8d.css.map": "/daboor-meter/static/css/main.e71f5d8d.css.map",
+    "main.446c5c58.css.map": "/daboor-meter/static/css/main.446c5c58.css.map",
     "main.c405bac2.js.map": "/daboor-meter/static/js/main.c405bac2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e71f5d8d.css",
+    "static/css/main.446c5c58.css",
     "static/js/main.c405bac2.js"
   ]
 }
